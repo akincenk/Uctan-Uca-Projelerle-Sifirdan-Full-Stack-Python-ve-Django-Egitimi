@@ -1,0 +1,3 @@
+command shift p ---> komut listesini açar
+    > buradan color theme seçip vs code theme değiştirilir
+
