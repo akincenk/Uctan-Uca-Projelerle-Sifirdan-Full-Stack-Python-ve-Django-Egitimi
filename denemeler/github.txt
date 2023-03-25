@@ -1,3 +1,12 @@
 command shift p ---> komut listesini açar
     > buradan color theme seçip vs code theme değiştirilir
 
+multicurser ---> ilgili yere mause ile tıkladıktan sonra option tuşuna basarak yeni yere tıklanır
+                çıkmak için esc tuşu kullanılır.
+                -- yada ilgili eleman shift ile seçildikten sonra command d ile birer eleman eklenir. command D tuşunu her basıldığında aynı elemandan bir tane daha eklenir.
+
+                -- option shift mause ile heryer seçilebilir
+
+
+editör playground :
+        
