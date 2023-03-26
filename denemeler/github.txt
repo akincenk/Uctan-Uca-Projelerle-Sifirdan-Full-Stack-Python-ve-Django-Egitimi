@@ -8,5 +8,12 @@ multicurser ---> ilgili yere mause ile tıkladıktan sonra option tuşuna basara
                 -- option shift mause ile heryer seçilebilir
 
 
-editör playground :
+
+editör playground :  açıklamalar ile beraber özelliklerin uygulamalı gösterimi var
         
+command p ile açık olan sayfalar arasıınada geçiş yapılır.
+command w ile açık olan sayfayı kapatır
+command tab ile açık olan penceler arasında geçiş yapılır
+option ok seçimi taşıyabiliriz
+command enter alt satıra geçer
+
