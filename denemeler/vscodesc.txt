@@ -17,3 +17,9 @@ command tab ile açık olan penceler arasında geçiş yapılır
 option ok seçimi taşıyabiliriz
 command enter alt satıra geçer
 
+-----snippets----
+
+command shift p snippets    
+
+configure user snippets 
+    html(global de yapılabilir)
