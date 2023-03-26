@@ -1,0 +1,5 @@
+ cheat.sh ile birçok kısa yol buradan bulunabilir
+ curl ile terminal üzerinden de ulaşılabilir.
+
+ gitignore.io --> gitignore dosyası üretir
+ .gitignore diye yazılır baştaki nokta gizli dosya olmasını sağlar
