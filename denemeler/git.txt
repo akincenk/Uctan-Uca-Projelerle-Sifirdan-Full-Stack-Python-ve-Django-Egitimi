@@ -3,3 +3,14 @@
 
  gitignore.io --> gitignore dosyası üretir
  .gitignore diye yazılır baştaki nokta gizli dosya olmasını sağlar
+
+
+ git status ---> hangi dosyaların git kapsamında olduğunu gösterir.
+
+ git add . ---> tüm dosyaları git e eklenir
+
+ git commit -m ' commit açıklaması '
+
+ git log ---> git logunu döker
+
+ 
