@@ -9,8 +9,8 @@
 
  git add . ---> tüm dosyaları git e eklenir
 
- git commit -m ' commit açıklaması '
+ git commit -m ' commit açıklaması ' git add yapmadan commit çalışmaz
 
  git log ---> git logunu döker
 
- 
+git diff ---> değişiklikleri gösterir
