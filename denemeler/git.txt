@@ -13,4 +13,4 @@
 
  git log ---> git logunu döker
 
-git diff ---> değişiklikleri gösterir
+ git diff ---> değişiklikleri gösterir
