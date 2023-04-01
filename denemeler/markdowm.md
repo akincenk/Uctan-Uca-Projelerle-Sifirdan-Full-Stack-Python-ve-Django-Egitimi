@@ -31,4 +31,4 @@ bu satırı köşeli parantezin içine alıp linki parantez içinde eklersek bu 
 
 - [] **html**
 
-![23](https://progress-bar.dev/23)
+[![23](https://progress-bar.dev/23/)](https://progress-bar.dev/23)
