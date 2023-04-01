@@ -14,3 +14,8 @@
  git log ---> git logunu döker
 
  git diff ---> değişiklikleri gösterir
+
+ gitexplorer.com ---> git komutlarının keşfedilebileceği bir internet sitesi
+
+ cheat.sh/git  ---> sadece git için değil ancak git için de detaylı açıklma veren bir site
+ 
